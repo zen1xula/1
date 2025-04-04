@@ -5,9 +5,8 @@
 ################################################################################################################
 <#
 .NOTES
-    Author         : Chris Titus @christitustech
-    Runspace Author: @DeveloperDurp
-    GitHub         : https://github.com/ChrisTitusTech
+    Author         : zen1xula
+    GitHub         : https://github.com/zen1xula
     Version        : 25.03.05
 #>
 
@@ -6079,7 +6078,7 @@ Function Invoke-WPFFormVariables {
     Write-Host "CCC::::::::::::C         T:::::::::T            T:::::::::T       "
     Write-Host "  CCCCCCCCCCCCC          TTTTTTTTTTT            TTTTTTTTTTT       "
     Write-Host ""
-    Write-Host "====Chris Titus Tech====="
+    Write-Host "=====zen1xula sigma======"
     Write-Host "=====Windows Toolbox====="
 
     #====DEBUG GUI Elements====
